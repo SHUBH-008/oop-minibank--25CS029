@@ -1,0 +1,5 @@
+*.class
+.DS_Store
+Referance/
+.vscode/
+JavaPracticals.code-workspace
